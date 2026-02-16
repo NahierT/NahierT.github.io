@@ -65,7 +65,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-  spotify: nahiert
+  spotify: "nahiert"
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -79,7 +79,7 @@ social-network-links:
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
-#  gitlab: yourname
+#  gitlab: "https://github.com/nahiert"
 #  itchio: yourname
 #  untappd: yourname
 #  strava: youruserid
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://nahiert.github.io/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
