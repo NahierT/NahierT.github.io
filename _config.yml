@@ -24,7 +24,7 @@ navbar-links:
     - Sounds of Land: "https://open.spotify.com/user/996539?si=88dce426834f4e53"
     - Visuals of Land: "https://www.pinterest.com/nahiert01/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "http://www.narulandis22.com"
+  Author's home: "https://nahiert.github.io/"
 
 ################
 # --- Logo --- #
@@ -53,7 +53,7 @@ social-network-links:
   email: "net1@williams.edu"
 # rss: true remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: daattali
+  github: "https://github.com/nahiert"
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
